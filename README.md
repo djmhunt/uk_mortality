@@ -32,13 +32,15 @@ My next challenge is in grouping the causes of death in a useful way.
 
 ## Data sources
 
-- [The 20th century mortality data](https://webarchive.nationalarchives.gov.uk/20160108034247/http://www.ons.gov.uk/ons/rel/subnational-health1/the-20th-century-mortality-files/20th-century-deaths/index.html)
+- [The 20th century mortality data.](https://webarchive.nationalarchives.gov.uk/20160108034247/http://www.ons.gov.uk/ons/rel/subnational-health1/the-20th-century-mortality-files/20th-century-deaths/index.html)
 
-- [21st century mortality dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/the21stcenturymortalityfilesdeathsdataset)
+- [21st century mortality dataset.](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/the21stcenturymortalityfilesdeathsdataset)
 
-- [The population and demographic data for the UK up to 2014](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/004356ukpopulationestimates1851to2014)
+- [The population and demographic data for the UK up to 2014.](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/adhocs/004356ukpopulationestimates1851to2014)
 
-- [More recent population and demographic data for the UK](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?)
+- [More recent population and demographic data for the UK.](https://www.nomisweb.co.uk/query/select/getdatasetbytheme.asp?)
+
+- [The CDC description of ICD-10](https://www.cdc.gov/nchs/icd/icd10.htm) has a copy of the [mortality cause list](ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10).
 
 ### As of yet unused datasets
 - [The ONS discussion on the 20th century mortality data](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/causesofdeathover100years/2017-09-18)
@@ -47,11 +49,13 @@ My next challenge is in grouping the causes of death in a useful way.
 
 ## Notes
 All the datasets examined here encode the cause of death using the [International Classification of Diseases (ICD)](https://en.wikipedia.org/wiki/International_Classification_of_Diseases). Which version is used varies across the years. The 20th century datasets use ICD-1 at the beginning of the century to ICD-9 at the end. In the 21st
- century data two versions of ICD-10 are used: one for 2001-2010 inclusive and another for [2011 onwards](https://icd.who.int/browse10/2010/en#/). The most recent classification can be found [here](https://icd.who.int/browse10/2019/en)
+ century data two versions of ICD-10 are used: one for 2001-2010 inclusive and another for [2011 onwards](https://icd.who.int/browse10/2010/en#/). A comparison between the two [was made in 2010](https://webarchive.nationalarchives.gov.uk/20160106020038/http://www.ons.gov.uk/ons/rel/subnational-health3/results-of-the-icd-10-v2010-bridge-coding-study--england-and-wales--2009/2009/index.html). The most recent classification can be found [here](https://icd.who.int/browse10/2019/en)
 
 The ICD classifications can be found in one place on [this](http://www.wolfbane.com/icd/) website.
 
 A comparison of codes used for smoking related diseases in ICD-7 to ICD-10 can be found in [The Health Consequences of Smoking: A Report of the Surgeon General.](https://www.ncbi.nlm.nih.gov/books/NBK44703/table/ch7.t1-2/)
+
+
 
 ## License
 Use of this is licensed under the [Creative Commons Attribution 4.0 International](https://choosealicense.com/licenses/cc-by-4.0/#)
